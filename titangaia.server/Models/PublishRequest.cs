@@ -1,0 +1,1 @@
+record PublishRequest(string Topic, object Message);

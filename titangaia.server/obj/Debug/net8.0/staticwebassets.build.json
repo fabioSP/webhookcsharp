@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wj10F1CslvKZy8gJqWQdDpGasYieKFpQmXddgtd4DF4=",
+  "Source": "titangaia.server",
+  "BasePath": "_content/titangaia.server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

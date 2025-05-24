@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# testes\\webhooks C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E640566C-2404-411E-91E2-6684F16DE6C7}|titangaia.client\\titangaia.client.csproj|f:\\c# testes\\webhooks c#\\titangaia.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640566C-2404-411E-91E2-6684F16DE6C7}|titangaia.client\\titangaia.client.csproj|solutionrelative:titangaia.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D3707-706F-4164-B065-9DF3E1F57E9D}|titangaia.server\\titangaia.server.csproj|f:\\c# testes\\webhooks c#\\titangaia.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D3707-706F-4164-B065-9DF3E1F57E9D}|titangaia.server\\titangaia.server.csproj|solutionrelative:titangaia.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400D3707-706F-4164-B065-9DF3E1F57E9D}|titangaia.server\\titangaia.server.csproj|f:\\c# testes\\webhooks c#\\titangaia.server\\webhookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400D3707-706F-4164-B065-9DF3E1F57E9D}|titangaia.server\\titangaia.server.csproj|solutionrelative:titangaia.server\\webhookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebhookService.cs",
+              "DocumentMoniker": "F:\\C# testes\\webhooks C#\\titangaia.server\\WebhookService.cs",
+              "RelativeDocumentMoniker": "titangaia.server\\WebhookService.cs",
+              "ToolTip": "F:\\C# testes\\webhooks C#\\titangaia.server\\WebhookService.cs",
+              "RelativeToolTip": "titangaia.server\\WebhookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:59:55.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# testes\\webhooks C#\\titangaia.client\\Program.cs",
+              "RelativeDocumentMoniker": "titangaia.client\\Program.cs",
+              "ToolTip": "F:\\C# testes\\webhooks C#\\titangaia.client\\Program.cs",
+              "RelativeToolTip": "titangaia.client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:00:19.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# testes\\webhooks C#\\titangaia.server\\Program.cs",
+              "RelativeDocumentMoniker": "titangaia.server\\Program.cs",
+              "ToolTip": "F:\\C# testes\\webhooks C#\\titangaia.server\\Program.cs",
+              "RelativeToolTip": "titangaia.server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:00:06.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
