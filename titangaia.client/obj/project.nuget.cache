@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "htQnICWPWg4=",
+  "success": true,
+  "projectFilePath": "F:\\C# testes\\webhooks C#\\titangaia.client\\titangaia.client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naoqu\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
